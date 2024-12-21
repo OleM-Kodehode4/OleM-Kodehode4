@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OleM-Kodehode4
-- 👀 I’m interested in Football⚽
-- 🌱 I’m currently learning to be a Front-End Dev🖥️
-- 💞️ I’m looking to collaborate on N0thing⛔
-- 📫 How to reach me Github duhu
+- 👀 I’m interested in: Football⚽
+- 🌱 I’m currently learning to be a: Front-End Dev🖥️
+- 💞️ I’m looking to collaborate on: N0thing⛔
+- 📫 How to reach me: Github duhu
 - 😄 Pronouns: He/Him/Superman
 - ⚡ Fun fact: I don't know what i'm doing
 
